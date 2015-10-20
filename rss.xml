@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ChuckMalcomson]]></title>
+        <description><![CDATA[ChuckMalcomson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Oct 2015 19:07:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Build Your Own Marketing Plan for Medical Device Companies]]></title>
+            <description><![CDATA[<article><h1>How to Build Your Own Marketing Plan for Medical Device Companies</h1><p>When you set out to build a medical device marketing plan, you're not really starting from scratch. Though you may not have thought about these strategies in terms of marketing, your sales team is already implementing an approach they've honed based on experience with your prospects and customers.</p><img src="http://cdn2.hubspot.net/hubfs/53/00-Blog_Thinkstock_Images/Stock_Photography_Websites.jpeg?t=1445367474675"></article>]]></description>
+            <link>http://blog.hubspot.com/insiders/medical-device-marketing</link>
+            <guid isPermaLink="false">cc0162a1-cd57-46f7-a9ae-3b904678f3bf</guid>
+            <pubDate>Tue, 20 Oct 2015 19:06:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
